@@ -32,6 +32,6 @@ Were you able to achieve the target model performance?
 What steps did you take in your attempts to increase model performance?
 
 - As outlined above I tried four different configurations. I increased the number of nodes and changed the activation type.
-- 
+  
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 - This method of deep learning was fairly effective, however I was unable to get it to reach maximum performance. Furtheremore, it seemed that it was goign to be impossible to reach the target of 75% accuracy. It seems that a "feed forward" neural netowrk will have limitations in getting to 75% accuracy. Thus, to acheive this goal we will likely need a more complex neural network, using "random forest" might help increase the accuracy. This method aggregates different models and may in turn boost the model's accuracy. 
